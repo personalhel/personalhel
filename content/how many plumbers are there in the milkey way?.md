@@ -146,7 +146,8 @@ n_e = 4.0
 f_l = 1.0
 
 n_Pb_tot = n_stars * f_p * n_e * f_l * rho_Pb * r_Pb # [people] 
-print(f"estimated total amout of plumbers in the galaxy: {n_Pb_tot:.1e}")```
+print(f"estimated total amout of plumbers in the galaxy: {n_Pb_tot:.1e}")
+```
 
 [^1]: source: https://www.bookcleango.com/blog/plumbing-statistics
 
