@@ -1,0 +1,1 @@
+the thing that [[rust]] does well, and [[python]] and [[nix]] doesn't.

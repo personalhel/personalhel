@@ -1,0 +1,1 @@
+the only [[function|functional]] way of doing code.
