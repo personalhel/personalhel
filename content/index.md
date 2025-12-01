@@ -16,12 +16,6 @@ started on [[2025-08-12]].
 
 ---
 
- <font style="color:5BCEFA">000000000000000</font>
- <font style="color:F5A9B8">000000000000000</font>
- <font style="color:FFFFFF">000000000000000</font>
-   <font style="color:F5A9B8">000000000000000</font>
- <font style="color:5BCEFA">000000000000000</font>
-
 # (special) interests
 ## math and cs
 - [[interesting papers]]
@@ -39,3 +33,5 @@ started on [[2025-08-12]].
 - github: https://github.com/uraniumcovid
 - ![[my signal account]]
 #meta
+
+![[trans_goose.jpg]]
