@@ -31,7 +31,8 @@ started on [[2025-08-12]].
 
 # personal links and contact
 - github: https://github.com/uraniumcovid
-- ![[my signal account]]
+- mail: personalhel@proton.me
+- signal: ![[my signal account]]
 #meta
 
 ![[trans_goose.jpg]]
