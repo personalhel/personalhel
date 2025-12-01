@@ -1,0 +1,1 @@
+norwegian/danish cultural idea that says we aren't special.

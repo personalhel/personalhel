@@ -22,7 +22,7 @@ started on [[2025-08-12]].
 - [[software]] in general
 - programming in [[rust]]
 - [[functional programming]]
-- doing stupid estimation questions
+- doing [[stupid estimation questions]]
 ## politics
 - [[queer rights]]
 - [[global warming]]
