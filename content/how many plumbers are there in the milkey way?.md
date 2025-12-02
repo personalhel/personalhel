@@ -119,7 +119,7 @@ n_{stars}
 $$
 
 # conclusion
-there should be around $8\cdot 10^{18}$ plumbers in the world.
+there should be around $8\cdot 10^{18}$ plumbers in the galaxy, assuming you are okay with abusing copernicus and drake enough.
 
 # code used
 ```python
