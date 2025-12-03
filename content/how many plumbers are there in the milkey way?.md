@@ -80,7 +80,7 @@ we know that the solution is:
 $$
 f_{Pb}(t) = \frac{1}{\sigma\sqrt{2\pi}}\cdot \exp\left[ -\frac{(t-\mu)^2}{2\sigma^2} \right]
 $$
-the peak value most be at $t=\mu$. so we get:
+the peak value must be at $t=\mu$. so we get:
 $$
 f_{Pb} = \frac{1}{\sigma \sqrt{2\pi}}
 $$
