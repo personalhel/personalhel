@@ -30,7 +30,7 @@ started on [[2025-08-12]].
 - [[energy infrastructure]]
 
 # personal links and contact
-- github: https://github.com/uraniumcovid
+- github: https://github.com/personalhel
 - mail: personalhel@proton.me
 - signal: ![[my signal account]]
 #meta
