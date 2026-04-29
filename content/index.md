@@ -1,8 +1,8 @@
 ![[drawing.jpeg]]
 
 # about the page
-
-this is a somewhat desperate attempt at organizing my notes and thoughts into something useful. it is a hel(l) of my own making.
+i am helene (she/her), a [[friend of blåhaj]].
+this page is a hel(l) of my own making.
 
 the page is structured as an [[obsidian|obsidian vault]]. i used to structure it using the [[johnny decimal system]], but as talked about on [[public voit|karl voit's wonderful blog]], [[tagging]] and linking are both inherently better was to organize information due to not needing to force an [[injectivity­|injective]] relationship between stored content and a folder structure. 
 
@@ -21,8 +21,10 @@ started on [[2025-08-12]].
 - [[interesting papers]]
 - [[software]] in general
 - programming in [[rust]]
+- [[nixos]]/nix and [[typst]]
 - [[functional programming]]
 - doing [[stupid estimation questions]]
+- [[research software engineering|rse]]
 ## politics
 - [[queer rights]]
 - [[global warming]]
@@ -30,9 +32,11 @@ started on [[2025-08-12]].
 - [[energy infrastructure]]
 
 # personal links and contact
-- github: https://github.com/personalhel
+- codeberg.org/personalhel
+- github.com/personalhel
 - mail: personalhel@proton.me
 - signal: ![[my signal account]]
+- matrix: personalhel:matrix.org
 #meta
 
 ![[trans_goose.jpg]]
