@@ -1,7 +1,7 @@
 ![[drawing.jpeg]]
 
 # about the page
-i am helene skovlund holst (she/her), a [[friend of blåhaj]].
+i am helene, hel for short (she/her), a [[friend of blåhaj]].
 this page is a hel(l) of my own making.
 
 the page is structured as an [[obsidian|obsidian vault]]. i used to structure it using the [[johnny decimal system]], but as talked about on [[public voit|karl voit's wonderful blog]], [[tagging]] and linking are both inherently better was to organize information due to not needing to force an [[injectivity­|injective]] relationship between stored content and a folder structure. 
