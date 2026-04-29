@@ -1,2 +1,2 @@
-an interesting [[software engineering]] subfield with really wonderful german conferences,
+research software engineering is an interesting [[software engineering]] subfield with really wonderful german conferences,
 and horribly expensive [[uk]] one.
