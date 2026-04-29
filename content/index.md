@@ -24,7 +24,7 @@ started on [[2025-08-12]].
 - [[nixos]]/nix and [[typst]]
 - [[functional programming]]
 - doing [[stupid estimation questions]]
-- [[research software engineering|rse]]
+- [[rse]] (research software engineering)
 ## politics
 - [[queer rights]]
 - [[global warming]]
@@ -34,7 +34,7 @@ started on [[2025-08-12]].
 # personal links and contact
 - [[codeberg]]: https://codeberg.org/personalhel
 - [[github]]: https://github.com/personalhel
-- mail: personalhel@proton.me
+- mail: hel@personalhel.com
 - signal: ![[my signal account]]
 - matrix: personalhel:matrix.org
 #meta
